@@ -1,6 +1,7 @@
 # Coursera_NeuralNetsandDeepLearning
 
-## This repository contains the assignments from the course - Neural Networks and Deep Learning in Coursera
+## Neural Networks and Deep Learning
+This repository contains the assignments from the course -  Neural Networks and Deep Learning in Coursera which is a part of deep learning specialization
 
 Logistic regression/Perceptron has been built using numpy library.
 
